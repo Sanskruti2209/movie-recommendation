@@ -29,15 +29,6 @@ This **Movie Recommendation System** suggests movies to users based on their pre
 4. Get **personalized suggestions** based on your watch history.
 
 
-## 🔥 Future Enhancements
-- **User Authentication** for personalized recommendations.
-- **Real-time Movie Trends** using APIs.
-- **User-based Ratings & Review System**.
-- **Deep Learning-based Recommendation Model**.
-
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ## 💡 Contributors
 - **Sanskruti Mistry** - [GitHub](https://github.com/Sanskruti2209)
 - **Rasika Jade** - [GitHub](https://github.com/RasikaJade1)
