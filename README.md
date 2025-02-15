@@ -40,5 +40,6 @@ This project is licensed under the **MIT License**.
 
 ## 💡 Contributors
 - **Sanskruti Mistry** - [GitHub](https://github.com/Sanskruti2209)
-- (Add other contributors if applicable)
+- **Rasika Jade** - [GitHub](https://github.com/RasikaJade1)
+- **Yash Pagar** - [GitHub](https://github.com/Yashpagar)
 
